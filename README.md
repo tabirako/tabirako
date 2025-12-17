@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+[![Tabirako's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabirako&show_icons=true&theme=tokyonight)](https://github.com/tabirako)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabirako&layout=compact&theme=tokyonight)](https://github.com/tabirako)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabirako&theme=tokyonight)](https://github.com/tabirako)
+
+
 <!--
 **tabirako/tabirako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-![Tabirako's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabirako&theme=tokyonight)
 
 Here are some ideas to get you started:
 
